@@ -1,0 +1,33 @@
+year,school,games,pen,penperg,penyds,penydsperg
+2015,Occidental,9,73,8.1,810,90
+2015,La Verne,10,80,8,749,74.9
+2015,Claremont-Mudd-Scripps,9,50,5.6,547,60.8
+2015,Chapman,9,58,6.4,564,62.7
+2015,Redlands,9,67,7.4,643,71.4
+2015,Pomona-Pitzer,9,71,7.9,551,61.2
+2015,Cal Lutheran,9,56,6.2,453,50.3
+2015,Whittier,9,56,6.2,499,55.4
+2014,Occidental,9,43,4.8,433,48.1
+2014,Cal Lutheran,9,52,5.8,486,54
+2014,Pomona-Pitzer,9,52,5.8,502,55.8
+2014,Redlands,9,60,6.7,571,63.4
+2014,La Verne,9,65,7.2,689,76.6
+2014,Whittier,9,72,8,630,70
+2014,Claremont-Mudd-Scripps,9,73,8.1,603,67
+2014,Chapman,10,77,7.7,737,73.7
+2013,Claremont-Mudd-Scripps,9,36,4,336,37.3
+2013,Pomona-Pitzer,9,42,4.7,394,43.8
+2013,Cal Lutheran,9,47,5.2,444,49.3
+2013,Occidental,9,49,5.4,431,47.9
+2013,La Verne,9,50,5.6,392,43.6
+2013,Chapman,9,61,6.8,586,65.1
+2013,Redlands,10,63,6.3,589,58.9
+2013,Whittier,9,72,8,632,70.2
+2012,Claremont-Mudd-Scripps,9,54,6,533,59.2
+2012,Pomona-Pitzer,9,56,6.2,483,53.7
+2012,Occidental,9,62,6.9,610,67.8
+2012,Redlands,9,66,7.3,666,74
+2012,Chapman,9,78,8.7,760,84.4
+2012,La Verne,9,85,9.4,960,106.7
+2012,Cal Lutheran,10,95,9.5,924,92.4
+2012,Whittier,9,101,11.2,1018,113.1
